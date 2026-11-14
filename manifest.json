@@ -1,0 +1,9 @@
+{
+  "id": "graph-tree-size",
+  "name": "Graph Tree Size",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "No Graph View, o tamanho do nó passa a depender da quantidade de filhos (como numa tree view), e não do total de links.",
+  "author": "você",
+  "isDesktopOnly": false
+}
